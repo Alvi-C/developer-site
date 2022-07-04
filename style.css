@@ -37,7 +37,7 @@ h1 {
 }
 
 .top-banner {
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     /* to use image in background */
     background-repeat: no-repeat;
 }
